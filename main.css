@@ -1,0 +1,15 @@
+body {
+  font-size: 22px;
+}
+
+input[type="text"] {
+  margin: 10px 0;
+  display: block;
+}
+[v-cloak]{
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
